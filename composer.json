@@ -1,0 +1,28 @@
+{
+    "name": "stepcart/tinymce-library",
+    "type": "library",
+    "description": "TinyMCE - The JavaScript Rich Text editor",
+    "keywords": ["WYSIWYG", "editor", "javascript", "library"],
+    "homepage": "https://stepcart.com",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Moxiecode Systems AB.",
+            "homepage": "http://tinymce.moxiecode.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "StepCart Development Team",
+            "email": "contributor@stepcart.com",
+            "homepage": "http://stepcart.com",
+            "role": "Contributor"
+        },
+        {
+            "name": "Aleksandr Beshkenadze",
+            "email": "beshkenadze@gmail.com",
+            "homepage": "http://beshkenadze.net",
+            "role": "Contributor"
+        }
+    ],            
+    "target-dir": "Resources/public/js"
+}
