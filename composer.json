@@ -27,7 +27,7 @@
     "target-dir": "Resources/public/js",
     "extra": {
         "branch-alias": {
-            "dev-stage": "1.0.0-dev"
+            "dev-master": "1.0.0-dev"
         }
     }   
 }
